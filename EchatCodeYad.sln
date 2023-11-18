@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echat", "Echat\Echat.csproj", "{83567806-8854-4142-A537-1743E6319B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{715C27F2-CA3D-4D82-AE80-164A4996A4D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{9AE423D5-8491-4BC6-9A88-E5E6648A11DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83567806-8854-4142-A537-1743E6319B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83567806-8854-4142-A537-1743E6319B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83567806-8854-4142-A537-1743E6319B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83567806-8854-4142-A537-1743E6319B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715C27F2-CA3D-4D82-AE80-164A4996A4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715C27F2-CA3D-4D82-AE80-164A4996A4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715C27F2-CA3D-4D82-AE80-164A4996A4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715C27F2-CA3D-4D82-AE80-164A4996A4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE423D5-8491-4BC6-9A88-E5E6648A11DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE423D5-8491-4BC6-9A88-E5E6648A11DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE423D5-8491-4BC6-9A88-E5E6648A11DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE423D5-8491-4BC6-9A88-E5E6648A11DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AA9A11-B894-4FC8-968E-7A98CBA2964C}
+	EndGlobalSection
+EndGlobal
